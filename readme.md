@@ -3,7 +3,7 @@
 
 ### ☁️ Deploy:
 O <a href="">Doctor Care</a> está hospedado no GitHub Pages.
-<br /> <br />
+
 
 ### 💻 Projeto:
 Versão final do projeto, implementado um chatbot treinado e funcional em uma página institucional fictícia no formato One Page.
