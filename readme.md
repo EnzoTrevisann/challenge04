@@ -2,7 +2,7 @@
 <p align="center">Aplicação fictícia no formato de landing page, responsiva.</p> 
 
 ### ☁️ Deploy:
-O <a href="">Doctor Care</a> está hospedado no GitHub Pages.
+O <a href="https://enzotrevisann.github.io/challenge04/">Doctor Care</a> está hospedado no GitHub Pages.
 
 
 ### 💻 Projeto:
