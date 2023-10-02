@@ -1,5 +1,5 @@
 <h1 align="center">Doctor Care</h1>
-<p align="center">Aplicação fictícia no formato de landing page, responsiva.</p> 
+<p align="center">Aplicação fictícia no formato de landing page responsiva.</p> 
 
 ### ☁️ Deploy:
 O <a href="https://enzotrevisann.github.io/challenge04/">Doctor Care</a> está hospedado no GitHub Pages.
@@ -10,7 +10,7 @@ Versão final do projeto, implementado um chatbot treinado e funcional em uma p�
 
 
 ### 🎯 Objetivo:
-Melhorar a Customer Experience (CX) da "empresa" Doctor Care através da implementação de um chatbot para tirar dúvidas.
+Melhorar a Customer Experience (CX) do cliente fictício Doctor Care através da implementação de um chatbot para tirar dúvidas.
 <br /> <br />
 
 ### ⚙️ Tecnologias:
